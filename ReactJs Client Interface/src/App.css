@@ -1,0 +1,36 @@
+.App {
+  min-height: 100vh;
+  text-align: left;
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  column-count: 2;
+  flex-direction: column;
+  font-size: calc(10px + 1vmin);
+
+}
+
+h1, h2 {
+  padding: 10px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #DDD;
+}
+
+tr:hover {
+  color: black;
+  background-color: #D6EEEE;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
