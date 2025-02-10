@@ -15,7 +15,7 @@
 * Created RESTful web services to expose the database.
 	
 
-# Servicii RESTful pentru MongoDB
+# RESTful Services for MongoDB
 
 * Designed and implemented RESTful services for managing playlists as part of a Spotify-like application.
 
